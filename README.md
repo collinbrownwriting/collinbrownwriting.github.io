@@ -1,5 +1,3 @@
-# collinbrownwriting.github.io
-A repository for my writings, conlangs, and other little interests.
+#README
 
-If you need to contact me, my email is:
-CollinBrownWriting@gmail.com
+This doesn't really have anything in it.
