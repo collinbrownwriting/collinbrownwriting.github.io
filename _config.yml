@@ -1,0 +1,11 @@
+exclude:
+  - node_modules
+  - script
+
+sass:
+  style: :compressed
+
+theme: jekyll-folklorico
+  
+title: Jekyll Theme Folklorico
+description: What?
