@@ -1,3 +1,13 @@
-# Hello there.
-remote_theme: collinbrownwriting/writerly
+title: Collin Brown Writes
+email: collinbrownwriting@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A repository of writings, conlangs, and other nonsense
+  curated by the one and only Collin Brown.
 baseurl: /
+url: "http://collinbrownwrites.com"
+github_username:  collinbrownwriting
+
+# Build settings
+theme: collinbrownwriting/writerly
+plugins:
+  - jekyll-feed
