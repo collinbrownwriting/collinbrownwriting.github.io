@@ -11,3 +11,4 @@ github_username:  collinbrownwriting
 theme: collinbrownwriting/writerly
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
